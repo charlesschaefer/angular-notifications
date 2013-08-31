@@ -3,7 +3,7 @@
     "name": "https://github.com/Derekries"
   },
   "name": "angular-notifications",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "notification.js",
   "ignore": [
     "**/.*",
@@ -11,6 +11,6 @@
     "components"
   ],
   "dependencies": {
-    "angular": "~1.0.7"
+    "angular": "~v1.0"
   }
 }
